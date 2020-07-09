@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oh hello :rocket:
+
+I'm currently working with Scala and loving it
 
 <!--
 **lukecollier/lukecollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
