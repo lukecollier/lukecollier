@@ -1,7 +1,8 @@
-### Oh hello :rocket:
+### Hello, welcome to my page! :rocket:
 
-I'm currently working with Scala and loving it
+I'm a software engineer with extensive experience in A/B testing, and heuristics for solving _certain_ np-hard problems.
 
+My favourite experiences are in Rust and Scala with an addiction to typing things (sometimes poorly).
 <!--
 **lukecollier/lukecollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
