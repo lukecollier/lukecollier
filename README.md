@@ -3,6 +3,23 @@
 I'm a software engineer with extensive experience in A/B testing, and heuristics for solving _certain_ np-hard problems.
 
 My favourite experiences are in Rust and Scala with an addiction to typing things (sometimes poorly).
+
+#### 🔭 I’m currently working on ...
+- `testsmith.nvim` some test helpers for nvim.
+- `sink` a experimental text collaboration engine using ssh, domain sockets, and other fun.
+- `reovim` learning project to understand layout engines, tree based rendering, tui's, text editing. (A fun aside is I'm planning a library plugin based experience, so ever user can build and add plugins in a cargo project)
+- `caustics` experimenting with `stillwater` to see how a webserver could utilize it's API for composible routing.
+- `bevy_ocean` ⚠️ on hold. Using FFT to simulative an ocean in bevy.
+- `tinyswords` ⚠️ on hold. Creating a full game in bevy for fun and probably no profit.
+
+#### 🤔 Next projects ...
+- `spot` framework for shadow validating live services, forks request's and collects spot's the difference.
+
+#### 🌱 I’m currently learning ...
+- `agentic development` with claude, it's honestly too good
+- `rust` delving deep into rust
+- `bevy` the ecs game engine is great
+
 <!--
 **lukecollier/lukecollier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
