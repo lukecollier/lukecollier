@@ -6,6 +6,7 @@ My favourite experiences are in Rust and Scala with an addiction to typing thing
 
 #### 🔭 I’m currently working on ...
 - `testsmith.nvim` some test helpers for nvim.
+- `sockman` a websocket test client.
 - `sink` a experimental text collaboration engine using ssh, domain sockets, and other fun.
 - `reovim` learning project to understand layout engines, tree based rendering, tui's, text editing. (A fun aside is I'm planning a library plugin based experience, so ever user can build and add plugins in a cargo project)
 - `caustics` experimenting with `stillwater` to see how a webserver could utilize it's API for composible routing.
